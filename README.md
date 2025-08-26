@@ -3,7 +3,7 @@ Eii! Bem-vindo ao meu GitHub 👋😜
 
 ## Sobre mim
 + 📚 **Universitário:** Ciência da Computação na [Newton Paiva](https://newtonpaiva.br)
-+ 💬 **Idiomas:** Falo Português, aprendendo Alemão
++ 💬 **Idiomas:** Falo Português, aprendendo Inglês
 + 💎 **Hobbies:** viagens, culinária e família
 + ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor de Software e Pentester
 + 💡 **Estudando:** Java, Programação Orientada a Objetos, Python, Html e Css, Power BI
