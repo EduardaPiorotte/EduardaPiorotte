@@ -1,16 +1,18 @@
-## Hi there 👋
+# Meu GitHub - Eduarda Gomes Piorotte
+Eii! Bem-vindo ao meu GitHub 👋😜
 
-<!--
-**EduardaPiorotte/EduardaPiorotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
++ 📚 **Universitário:** Ciência da Computação na [Newton Paiva](https://newtonpaiva.br)
++ 💬 **Idiomas:** Falo Português, aprendendo Alemão
++ 💎 **Hobbies:** viagens, culinária e família
++ ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor de Software e Pentester
++ 💡 **Estudando:** Java, Programação Orientada a Objetos, Python, Html e Css, Power BI
 
-Here are some ideas to get you started:
+## Habilidades
+<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Java.png" alt="Java" style="width:40px;" align="center"><img src="Images/Python.png" alt="Python" style="width:45px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 🔧 **Ferramentas:** VSCode, Git, IntelliJ, Eclipse
+
+## Fale comigo
+<a href="mailto:piorotteeduarda@gmail.com"><img src="Images/Gmail.png" style="width:40px;" align="center"></a><a href="https://www.linkedin."><img src="Images/Linkedin.png" style="width:40px;" align="center"></a>
+
